@@ -117,6 +117,11 @@
             bindings = <&kp LG(V)>;
             key-positions = <28 29>;
         };
+
+        tab {
+            bindings = <&kp TAB>;
+            key-positions = <13 14>;
+        };
     };
 
     behaviors {
